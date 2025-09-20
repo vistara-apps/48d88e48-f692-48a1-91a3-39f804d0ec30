@@ -1,0 +1,14 @@
+{
+  "name": "DAOpool",
+  "description": "DAOpool is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://48d88e48-f692-48a1-91a3-39f804d0ec30.vercel.app",
+  "properties": {
+    "app": {
+      "name": "DAOpool",
+      "description": "DAOpool is a Base Mini App built with Zara.",
+      "url": "https://48d88e48-f692-48a1-91a3-39f804d0ec30.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
